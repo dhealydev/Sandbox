@@ -1,0 +1,44 @@
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\ExactTargetIntegration.Console.exe.config
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\ExactTargetIntegration.Console.exe
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\ExactTargetIntegration.Console.pdb
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\Dapper.dll
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\EPPlus.dll
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\ExactTargetService.dll
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\GNYHA.CRM.dll
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\microsoft.crm.sdk.proxy.dll
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\microsoft.xrm.client.dll
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\microsoft.xrm.sdk.deployment.dll
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\microsoft.xrm.sdk.dll
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\Newtonsoft.Json.dll
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\ExactTargetService.pdb
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\Dapper.pdb
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\Dapper.xml
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\EPPlus.xml
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\bin\Release\Newtonsoft.Json.xml
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\obj\Release\ExactTargetIntegration.Console.csprojResolveAssemblyReference.cache
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\obj\Release\ExactTargetIntegration.Console.exe
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetIntegration.Console\obj\Release\ExactTargetIntegration.Console.pdb
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\ExactTargetIntegration.Console.exe.config
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\ExactTargetIntegration.Console.exe
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\ExactTargetIntegration.Console.pdb
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\DAL.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\Dapper.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\EPPlus.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\ExactTargetService.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\GNYHA.CRM.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\microsoft.crm.sdk.proxy.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\microsoft.xrm.client.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\microsoft.xrm.sdk.deployment.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\microsoft.xrm.sdk.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\Models.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\Newtonsoft.Json.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\DAL.pdb
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\ExactTargetService.pdb
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\Models.pdb
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\Dapper.pdb
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\Dapper.xml
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\EPPlus.xml
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\bin\Release\Newtonsoft.Json.xml
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\obj\Release\ExactTargetIntegration.Console.csprojResolveAssemblyReference.cache
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\obj\Release\ExactTargetIntegration.Console.exe
+C:\Users\dhealy\src\ETAutomation\ExactTargetIntegration.Console\obj\Release\ExactTargetIntegration.Console.pdb

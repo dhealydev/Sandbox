@@ -1,0 +1,16 @@
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetService\bin\Debug\ExactTargetService.dll.config
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetService\bin\Debug\ExactTargetService.dll
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetService\bin\Debug\ExactTargetService.pdb
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetService\obj\Debug\ExactTargetService.dll
+C:\Users\dhealy\DevProjects\GNYHA\Exact Target\ETLoader\gnyhamc-exacttargetloader-1b6f48c0fa68\gnyhamc-exacttargetloader-1b6f48c0fa68\ExactTargetService\obj\Debug\ExactTargetService.pdb
+C:\Users\dhealy\src\ETAutomation\ExactTargetService\bin\Debug\ExactTargetService.dll.config
+C:\Users\dhealy\src\ETAutomation\ExactTargetService\bin\Debug\ExactTargetService.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetService\bin\Debug\ExactTargetService.pdb
+C:\Users\dhealy\src\ETAutomation\ExactTargetService\bin\Debug\DAL.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetService\bin\Debug\Dapper.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetService\bin\Debug\DAL.pdb
+C:\Users\dhealy\src\ETAutomation\ExactTargetService\bin\Debug\Dapper.pdb
+C:\Users\dhealy\src\ETAutomation\ExactTargetService\bin\Debug\Dapper.xml
+C:\Users\dhealy\src\ETAutomation\ExactTargetService\obj\Debug\ExactTargetService.csprojResolveAssemblyReference.cache
+C:\Users\dhealy\src\ETAutomation\ExactTargetService\obj\Debug\ExactTargetService.dll
+C:\Users\dhealy\src\ETAutomation\ExactTargetService\obj\Debug\ExactTargetService.pdb
