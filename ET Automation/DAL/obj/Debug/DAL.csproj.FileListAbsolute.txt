@@ -1,7 +1,0 @@
-C:\Users\dhealy\src\ETAutomation\DAL\bin\Debug\DAL.dll
-C:\Users\dhealy\src\ETAutomation\DAL\bin\Debug\DAL.pdb
-C:\Users\dhealy\src\ETAutomation\DAL\bin\Debug\Dapper.dll
-C:\Users\dhealy\src\ETAutomation\DAL\bin\Debug\Dapper.pdb
-C:\Users\dhealy\src\ETAutomation\DAL\bin\Debug\Dapper.xml
-C:\Users\dhealy\src\ETAutomation\DAL\obj\Debug\DAL.dll
-C:\Users\dhealy\src\ETAutomation\DAL\obj\Debug\DAL.pdb

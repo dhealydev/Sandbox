@@ -1,6 +1,0 @@
-<Modules>
-  <Module PersistentId="782A46C1-1AC4-4750-972A-F6716F27C2AA" ModuleId="ExactTargetIntegration.Console" />
-  <Module PersistentId="86B94BA1-A254-41C2-888B-48233A28D12E" ModuleId="ExactTargetService" />
-  <Module PersistentId="686DCDEE-CA9F-4F9E-89B6-79050A31C32E" ModuleId="DAL" />
-  <Module PersistentId="CE27D6D1-C02C-4CF1-BFCE-1FF3A5473B3C" ModuleId="Models" />
-</Modules>

@@ -1,4 +1,0 @@
-C:\Users\dhealy\src\ETAutomation\Models\bin\Release\Models.dll
-C:\Users\dhealy\src\ETAutomation\Models\bin\Release\Models.pdb
-C:\Users\dhealy\src\ETAutomation\Models\obj\Release\Models.dll
-C:\Users\dhealy\src\ETAutomation\Models\obj\Release\Models.pdb
